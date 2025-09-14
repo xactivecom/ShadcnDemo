@@ -1,3 +1,3 @@
 # Shadcn Demo
 
-Demonstrate using the the Shadcn UI Components for React and Vue frameworks.
+Demonstrate using the Shadcn UI components for the React and Vue frameworks.
